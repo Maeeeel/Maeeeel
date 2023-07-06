@@ -1,4 +1,4 @@
-<h3 align="center">CS Student</h3>
+<h3 align="center">2nd year CS Student</h3>
 
 <p align="left">
 <a href="https://www.leetcode.com/mael9zz" target="blank"> Leetcode </a>
